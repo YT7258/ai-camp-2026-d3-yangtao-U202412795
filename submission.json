@@ -1,0 +1,15 @@
+{
+  "milestone": "day-03",
+  "team": "杨涛，王艺博",
+  "members": [
+    "杨涛",
+    "王艺博"
+  ],
+  "repository_url": "https://github.com/YT7258/ai-camp-2026-d3-yangtao-U202412795",
+  "run_command": "python analyze.py",
+  "test_command": "python -m unittest discover -s tests -v",
+  "report": "report.md",
+  "presentation": "presentation.pptx",
+  "presentation_minutes": 3,
+  "student_confirmed_no_secrets": true
+}
